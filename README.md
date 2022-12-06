@@ -1,3 +1,11 @@
-# hello-world
+# Misc stuff to share
 
-My first repository on GitHub. Kind of sandbox to play.
+## knight
+
+Fill in 10x10 board with knight move.
+
+To enjoy the toy enter
+
+```
+python knight.py
+```
